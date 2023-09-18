@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hello, I'm Md. Mahabub Alam </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=4000&size=27&duration=2000&pause=1000&color=01F700&background=000000&width=435&lines=Competative+Programmer+;Pupil+on+codeforces;Leetcode+400%2B+solved" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=4000&size=27&duration=2000&pause=1000&color=01F700&background=000000&center=true&width=435&lines=Competative+Programmer+;Pupil+on+codeforces;Leetcode+400%2B+solved" alt="Typing SVG" /></a>
 </p>
 
 
