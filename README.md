@@ -11,19 +11,14 @@
 
 
 
-
 <br>
 
-
-
-
-
 <br>
-- Computer Science and Engineering (Jashore University of Science and Technology)
+- Computer Science and Engineering (Jashore University of Science and Technology).
 <br>
-- Competitive programmer
+- Competitive programmer.
 <br>
-- Worked in Django
+- Worked in Django.
 
 <br><br>
 
@@ -49,7 +44,7 @@
 
 - **Framework**:
 
-    [![Django](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)](https://img.shields.io/pypi/frameworkversions/django/:packageName
+   <img alt="Static Badge" src="https://img.shields.io/badge/Django">
 )
     
 <br>
