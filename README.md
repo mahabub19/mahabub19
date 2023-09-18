@@ -5,6 +5,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=4000&size=27&duration=2000&pause=1000&color=01F700&background=000000&center=true&width=435&lines=Competative+Programmer+;Pupil+on+codeforces;Leetcode+400%2B+solved" alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=4000&size=27&duration=2000&pause=1000&color=F7F7F7&background=000000&center=true&width=435&lines=Django+Developer" alt="Typing SVG" /></a>
+</p>
+
+
+
 
 <br>
 
