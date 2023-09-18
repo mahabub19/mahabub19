@@ -20,7 +20,9 @@
 
 <br>
 - Computer Science and Engineering (Jashore University of Science and Technology)
-- Competetive programmer
+<br>
+- Competitive programmer
+<br>
 - Worked in Django
 
 <br><br>
